@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"to-do-list/todo"
+	"iris_test/todo"
 
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/mvc"

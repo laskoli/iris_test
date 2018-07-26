@@ -1,8 +1,8 @@
 package main
 
 import (
-	"to-do-list/todo"
-	"to-do-list/web/controllers"
+	"iris_test/todo"
+	"iris_test/web/controllers"
 
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/sessions"
